@@ -1,0 +1,10 @@
+Comment,Designator,Footprint,LCSC
+"Red","D1","LED_THT:LED_D5.0mm",""
+"Yellow","D2","LED_THT:LED_D5.0mm",""
+"Green","D3","LED_THT:LED_D5.0mm",""
+"Blue","D4","LED_THT:LED_D5.0mm_Clear",""
+"2.5","H1,H2","MountingHole:MountingHole_2.5mm",""
+"pmod","J1","Library:PinHeader_2x06_P2.54mm_Horizontal",""
+"4k7","R1,R2,R3,R4,R5,R6,R7,R8","Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder",""
+"470","R9,R10,R11,R12","Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder",""
+"BTN1","SW1,SW2,SW3,SW4","Button_Switch_THT:SW_PUSH_6mm",""
